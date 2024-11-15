@@ -8,7 +8,7 @@ Greetings! I'm Muneeb-Ur-Rehman, A seasoned full-stack web developer dedicated t
 
 - Front-End: Adept at leveraging React and Next.js to create visually appealing, highly performant user interfaces. I can deliver everything from simple components to complex SPAs that prioritize user experience.
 - Back-End: Express.js is my weapon of choice for crafting robust APIs and server-side logic, ensuring smooth data flow and seamless user interactions.
-- Prompt Engineering: This is my secret weapon! I understand the power of prompt engineering and utilize it to harness the potential of large language models like GPT-4 and Claude, unlocking innovative solutions and automating repetitive tasks.
+- Prompt Engineering: This is my secret weapon! I understand the power of prompt engineering and utilize it to harness the potential of large language models, unlocking innovative solutions and automating repetitive tasks.
 
 ## Values 
 
